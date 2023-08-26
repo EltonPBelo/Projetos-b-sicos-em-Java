@@ -1,5 +1,3 @@
-package projetoTv;
-
 public class smatTv {
 
     boolean ligada = false;
